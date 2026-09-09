@@ -1,0 +1,15 @@
+# Environment variables (contains real API keys - never commit this)
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+ 
